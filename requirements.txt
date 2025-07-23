@@ -3,3 +3,4 @@ aiofiles
 markdown
 requests
 beautifulsoup4
+mdx_truly_sane_lists
