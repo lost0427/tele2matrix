@@ -1,0 +1,5 @@
+matrix-nio
+aiofiles
+markdown
+requests
+beautifulsoup4
